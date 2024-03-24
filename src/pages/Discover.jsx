@@ -45,7 +45,7 @@ const Discover = () => {
   }
 
   return (
-    <div className="flex flex-col">
+    <div className="flex  ml-14 flex-col">
       <div className="w-full flex flex-col justify-between items-center sm:flex-row mt-4 mb-10">
         <h2 className="font-bold text-3xl text-white">Discover Top Songs</h2>
       </div>
